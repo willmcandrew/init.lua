@@ -1,0 +1,5 @@
+require('plugins')
+  1 require('lualine-config')
+  2 require('utils')
+  3 require('settings')
+  4 require('maps')
